@@ -224,9 +224,9 @@ footer hr {
 
 /* Experience */
 .experience [class*="row"] {
-  border-bottom: dotted 1px #ccc;
-  padding-top: 1em;
-  padding-bottom: 1em;
+  border-bottom: solid 0px #ccc;
+  padding-top: 0em;
+  padding-bottom: 0em;
 }
 
 .experience h2 {
@@ -283,10 +283,10 @@ footer hr {
 
 .education a {
   background-color: transparent;
-  border: 3px solid #f66733;
+  border: 3px solid #e4382c;
   padding: 7px 35px;
   border-radius: 3px;
-  color: #f66733;
+  color: #e4382c;
   font-size: 1.1em;
   opacity: .8;
   margin-bottom: 10px;
@@ -299,7 +299,7 @@ footer hr {
 }
 
 .education a:hover {
-  background-color: #f66733;
+  background-color: #e4382c;
   color: #ffffff;
 }
 
