@@ -68,6 +68,15 @@ header h1 {
   font-weight: 500;
 }
 
+header h1 span {
+	color: white;
+	background: rgb(34, 34, 34,); /* fallback color */
+	background: rgba(0, 0, 0, 0.7);
+	padding: 10px;
+	padding-bottom:0px;
+}
+
+
 header p {
   color: #fff;
   font-size: 1.5em;
@@ -79,6 +88,16 @@ header p {
   text-shadow: 0 3px 0 rgba(0,0,0, 0.3);
   font-style: italic;
 }
+
+header p span {
+	color: white;
+	background: rgb(34, 34, 34,); /* fallback color */
+	background: rgba(0, 0, 0, 0.8);
+	padding: 10px;
+	padding-top:9.68px;
+
+}
+
 
 section h1 {
   font-size: 1.8em;
@@ -494,4 +513,4 @@ footer hr {
   color: #ffffff;
 }
 
-
+.color-box {float:left; background-color:#000; padding:5%;}
