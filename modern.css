@@ -206,7 +206,7 @@ footer hr {
 @media screen and (min-width: 40em) {
   .grid-1 { width: 16.6666666%; }
   .grid-2 { width: 33.3333333%; }
-  .grid-3 { width: 50%; }
+  .grid-3 { width: 40%; }
   .grid-4 { width: 66.6666666%; }
   .grid-5 { width: 83.3333333%; }
   .grid-6 { width: 100%; }
